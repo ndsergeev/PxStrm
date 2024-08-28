@@ -2,6 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Materials/MaterialInstanceConstant.h"
 #include "MaterialManager.generated.h"
 
 UCLASS()
